@@ -11,4 +11,5 @@ Gem::Sepcification.new do |s|
   s.homepage = 'http://rubygems.org/kele'
   s.license = 'MIT'
   s.add_runtime_dependency = 'httparty', '~> 0.13'
+  s.add_runtime_dependency = 'json', '~> 2.1.0'
 end
