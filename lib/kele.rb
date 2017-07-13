@@ -1,5 +1,6 @@
 require "httparty"
 require "json"
+require "vcr"
 require "./lib/roadmap"
 require "./lib/messages"
 require "./lib/checkpoint"
